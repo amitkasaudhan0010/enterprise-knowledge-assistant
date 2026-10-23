@@ -6,3 +6,6 @@ pytest
 httpx
 ruff
 pypdf
+numpy
+faiss-cpu
+sentence-transformers
